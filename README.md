@@ -1,4 +1,4 @@
-# XAI-Interpretable-ML Assignemnt: Customer Churn Prediction
+# XAI-Interpretable-ML Assignment: Customer Churn Prediction
 
 ## Overview
 
