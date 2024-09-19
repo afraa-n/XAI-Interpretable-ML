@@ -46,7 +46,7 @@ Before building the models, EDA was conducted to understand the dataset better:
 ### 3. Generalized Additive Model (GAM)
 - **Train Accuracy**: 81.33%
 - **Test Accuracy**: 79.60%
-- **Insights**: GAM performed the best in modeling non-linear relationships and provides detailed insights into feature impacts for this dataset.
+- **Takeaways**: GAM performed the best in modeling non-linear relationships and provides detailed insights into feature impacts for this dataset.
 
 ![image](https://github.com/user-attachments/assets/9c27e10c-5bed-44f9-9bbc-5bb49182adf1)
 
