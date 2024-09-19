@@ -3,6 +3,7 @@
 ## Overview
 
 This project involves predicting customer churn for a telecommunications company using various machine learning models. The goal is to identify patterns and factors contributing to customer churn and to select the most effective model for prediction.  
+
 Dataset used: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download)
 
 ## Exploratory Data Analysis (EDA)
