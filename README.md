@@ -17,7 +17,6 @@ Before building the models, EDA was conducted to understand the dataset better:
 
 ## Data Preparation
 
-### Preprocessing
 - **Preprocessing**: Standardized numerical features and one-hot encoded categorical features.
 - **Train-Test Split**: Data split into training (80%) and test (20%) sets.
 
